@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://hacktku.org/2015/sitemap.xml
